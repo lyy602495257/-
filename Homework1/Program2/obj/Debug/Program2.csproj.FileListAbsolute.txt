@@ -1,0 +1,10 @@
+D:\c#\Homework1\Program2\bin\Debug\Program2.exe.config
+D:\c#\Homework1\Program2\bin\Debug\Program2.exe
+D:\c#\Homework1\Program2\bin\Debug\Program2.pdb
+D:\c#\Homework1\Program2\obj\Debug\Program2.csprojResolveAssemblyReference.cache
+D:\c#\Homework1\Program2\obj\Debug\Program2.Form1.resources
+D:\c#\Homework1\Program2\obj\Debug\Program2.Properties.Resources.resources
+D:\c#\Homework1\Program2\obj\Debug\Program2.csproj.GenerateResource.Cache
+D:\c#\Homework1\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+D:\c#\Homework1\Program2\obj\Debug\Program2.exe
+D:\c#\Homework1\Program2\obj\Debug\Program2.pdb
